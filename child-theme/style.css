@@ -1,0 +1,99 @@
+
+/*
+ Theme Name:   Astra Child Theme
+ description: >-
+   A child theme of the Astra WordPress theme
+ Author:       Prajakti Sahay
+ Template:     astra
+ Version:      1.0.0
+*/
+
+.challenge-first {
+	width: 50%;
+	margin-bottom: 5%;
+}
+
+.challenge-cover .wp-block-cover__inner-container {
+	max-width: 1440px;
+}
+
+.wp-block-cover__inner-container .challenge-image {
+	margin-top: 5%;
+}
+
+.wp-block-cover__inner-container .challenge-image figure {
+	margin: 5%;
+	box-shadow: 10px 10px 10px 10px #eaeaea;
+}
+
+.solution-cover .wp-block-cover__inner-container {
+	width: 70%;
+}
+
+.solution-cover .wp-block-cover__inner-container p {
+	width: 70%;
+}
+
+.blue-cover {
+	padding-bottom: 0;
+}
+
+.blue-cover .wp-block-cover__inner-container .wp-block-gallery {
+	margin-top: -150px;
+}
+
+.blue-cover .wp-block-cover__inner-container .wp-block-gallery .blocks-gallery-item {
+	margin-bottom: 0;
+}
+
+.entry-content .solution-highlight-cover .wp-block-cover__inner-container {
+	width: 35%;
+    color: black;
+}
+
+.client-h2 {
+	margin-top: 5%;
+}
+
+.logo-group img {
+	width: 20%;
+}
+
+.logo-group .wp-block-media-text__media img {
+	float: right;
+	width: 10%;
+	padding: 3% 2%;
+    border-radius: 56%;
+	background-color: #eaeaea;
+}
+
+.logo-group .wp-block-media-text__content{
+	padding-left: 2px;
+}
+
+.logo-group .wp-block-group__inner-container {
+	margin: 0 235px;
+    border: 2px solid #eaeaea;
+    padding: 25px 0;
+}
+
+.wp-block-columns {
+	margin-bottom: 0;
+}
+
+.site-title a, .site-title a:focus, .site-title a:hover, .site-title a:visited {
+	color: #ffffff;
+}
+
+.cover-first p {
+	width: 70%;
+}
+
+.challenge-cover {
+	margin-top: 5%;
+}
+
+.ast-theme-transparent-header .main-header-bar .button-custom-menu-item .ast-custom-button-link .ast-custom-button {
+	border-color: #ffffff;
+    border-width: 1px;
+}
